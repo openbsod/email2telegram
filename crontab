@@ -1,0 +1,1 @@
+*         *       *       *       *       cd /var/scripts/; python3 /var/scripts/email2telegram/__init__.py >> /var/log/email_to_telegram.log
